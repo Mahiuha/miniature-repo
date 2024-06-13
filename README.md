@@ -1,0 +1,2 @@
+# miniature-repo
+static website
